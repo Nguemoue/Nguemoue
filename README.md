@@ -1,6 +1,9 @@
 # qui suis je
- je me nomme Nguemoue Luc de naissance je suis developpeur web ayant fais des etudes 
- a L'institut Africaine D'informatique IAI je reside au Cameroun
+ je me nomme Nguemoue Luc de naissance 
+ je suis Ingenieur de travaux (en attente de soutenance) option Genie Logiciel
+ je fais mes etudes a L'institut Africaine D'informatique IAI je reside au Cameroun
+ je suis passionner par la conception et le developpement de nouvelles solutions
+ digital ou numerique
  
 # language maitrise
 - php
