@@ -47,4 +47,4 @@ Je suis toujours ouvert à de nouveaux projets et collaborations passionnants da
 
 --- 
 
-Cela te donne une présentation professionnelle, claire et complète de tes compétences et de ton expérience. 👍
+La productivité n'est jamais un accident. Elle est toujours le résultat d'un engagement envers l'excellence, d'une planification intelligente et d'efforts concentrés. 👍 **Peter Drucker**
