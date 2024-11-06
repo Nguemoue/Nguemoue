@@ -1,4 +1,4 @@
-Voici le README mis à jour avec les informations supplémentaires :
+"L'inspiration existe, mais elle doit te trouver en train de travailler." **Pablo Picasso**
 
 ---
 
